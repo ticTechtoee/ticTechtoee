@@ -1,7 +1,5 @@
 ### Hi there Farhan Basheer Here 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Walkie Talkie.
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on YouTube
