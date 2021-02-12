@@ -9,4 +9,4 @@
 - 😄 Pronouns: FB
 
 
-https://github-readme-stats.vercel.app/api?username=ticTechtoee&&show_icons=true&title_color=000000&icon_color=000000&text_color=ffffff&bg_color=4285F4
+<img src="https://github-readme-stats.vercel.app/api?username=ticTechtoee&&show_icons=true&title_color=000000&icon_color=000000&text_color=ffffff&bg_color=4285F4">
