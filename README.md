@@ -1,3 +1,5 @@
+<img src="https://github.com/ticTechtoee/ticTechtoee/blob/37fbbf8a6b3cc09d94b840e0923c1739c16bae5b/GIF-1.gif">
+
 ### Hi there Farhan Basheer Here 👋
 
 - 🔭 I’m currently working on Walkie Talkie.
