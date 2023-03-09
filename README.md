@@ -2,11 +2,11 @@
 
 ### Hi there Farhan Basheer Here 👋
 
-- 🔭 I’m currently working on Portfolio App.
-- 🌱 I’m currently learning Django.
+- 🔭 I’m currently working on Abacus System, Advance Examination System.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on YouTube.
-- 🤔 I’m looking for help with tkinter.
-- 💬 Ask me about Winforms or C#.net.
+- 🤔 I’m looking for help with C#.net.
+- 💬 Ask me about Winforms, C#.net and django.
 - 📫 How to reach me: [Twitter](https://twitter.com/ticTechToee)
 - 😄 Pronouns: FB
 
