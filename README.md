@@ -2,12 +2,12 @@
 
 ### Hi there Farhan Basheer Here 👋
 
-- 🔭 I’m currently working on Abacus System, Advance Examination System.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on YouTube.
-- 🤔 I’m looking for help with C#.net.
+- 🔭 I’m currently working on LUDUS: Ecommerce Website.
+- 🌱 I’m currently learning React, Fast API.
+- 👯 I’m looking to collaborate on Medical Examination System.
+- 🤔 I’m looking for help with Fast API, Machine Learning.
 - 💬 Ask me about Winforms, C#.net and django.
-- 📫 How to reach me: [Twitter](https://twitter.com/ticTechToee)
+- 📫 How to reach me: [Twitter](https://twitter.com/ich_bin_farhan)
 - 😄 Pronouns: FB
 
 
