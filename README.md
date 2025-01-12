@@ -2,12 +2,12 @@
 
 ### Hi there Farhan Basheer Here 👋
 
-- 🔭 I’m currently working on LUDUS: Ecommerce Website.
-- 🌱 I’m currently learning React, Fast API.
-- 👯 I’m looking to collaborate on Medical Examination System.
+- 🔭 I’m currently working on SUDOKU Puzzle Solver using Fast R-CNN.
+- 🌱 I’m currently learning Flask, Machine Learning.
+- 👯 I’m looking to collaborate on Economic Screen Recorder. https://github.com/ticTechtoee/simple-screen-recorder.git
 - 🤔 I’m looking for help with Fast API, Machine Learning.
 - 💬 Ask me about Winforms, C#.net and django.
-- 📫 How to reach me: [Twitter](https://twitter.com/ich_bin_farhan)
+- 📫 How to reach me: [Fiverr](https://www.fiverr.com/uniquedesign_01/)
 - 😄 Pronouns: FB
 
 
